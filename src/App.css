@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+.about {
+    background-color: burlywood;
+}
+
+.about-box1 {
+    border: 0.5rem solid black;
+}
+
+.home-page {
+
+}
+
+.login-page {
+
+}
+
+.profile-page {
+
+}
+
+.profile-view-page {
+
+}
+
+.register-page {
+
+}
+
