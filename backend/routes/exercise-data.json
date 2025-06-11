@@ -1,0 +1,2433 @@
+{
+  "Exercise List": [{
+      "MuscleGroup": "Abdominals - Lower",
+      "Exercise": "Full Reverse Crunch",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Lower",
+      "Exercise": "Incline Hip Thrust",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Lower",
+      "Exercise": "Incline Reverse Crunch",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Lower",
+      "Exercise": "Lying Hip Thrust",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Lower",
+      "Exercise": "Reverse Crunch",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Lower",
+      "Exercise": "Reverse Medicine Ball Crunch",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Obliques",
+      "Exercise": "Alternating Heel Touch",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Obliques",
+      "Exercise": "Bent-Knee Medicine Ball Hip Rotation",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Obliques",
+      "Exercise": "Cable Chop",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Obliques",
+      "Exercise": "Cross Crunch",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Obliques",
+      "Exercise": "Cross Crunch w/ Medicine Ball",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Obliques",
+      "Exercise": "Decline Cross Sit-Up",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Obliques",
+      "Exercise": "Decline Sit-Up w/ Twist",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Obliques",
+      "Exercise": "Reverse Cable Chop",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Obliques",
+      "Exercise": "Seated Medicine Ball Twist",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Obliques",
+      "Exercise": "Trunk Rotator",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Total",
+      "Exercise": "Front Plank (from knees)",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Static",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Total",
+      "Exercise": "Front Plank (from toes)",
+      "Level": "Intermediate",
+      "U/L/C": "Core",
+      "P / P": "Static",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Total",
+      "Exercise": "Front Plank (tripod - 1 arm and 2 legs or 2 legs and 1 arm)",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Static",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Total",
+      "Exercise": "Side-Plank (from knees)",
+      "Level": "Intermediate",
+      "U/L/C": "Core",
+      "P / P": "Static",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Total",
+      "Exercise": "Side-Plank (hip lift)",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Static",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Total",
+      "Exercise": "Side-Plank (from toes)",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Static",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Total",
+      "Exercise": "Ab Cycle",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Total",
+      "Exercise": "Kneeling Ab Rollout",
+      "Level": "Intermediate",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Total",
+      "Exercise": "Medicine Ball V-Up",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Total",
+      "Exercise": "V-Up",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Total",
+      "Exercise": "Weighted V-Up",
+      "Level": "Intermediate",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Upper",
+      "Exercise": "Bent Knee Sit-Up",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Upper",
+      "Exercise": "Bent-Knee Crunch",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Upper",
+      "Exercise": "Crunch",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Upper",
+      "Exercise": "Crunch",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Upper",
+      "Exercise": "Decline Crunch",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Upper",
+      "Exercise": "Decline Sit-Up",
+      "Level": "Advanced",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Upper",
+      "Exercise": "Heel Touch",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Upper",
+      "Exercise": "Sit-Up",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Abdominals - Upper",
+      "Exercise": "Weighted Crunch",
+      "Level": "Intermediate",
+      "U/L/C": "Core",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Latissimus Dorsi",
+      "Exercise": "Assisted Pull-Up",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Latissimus Dorsi",
+      "Exercise": "Close-Grip Lat Pulldown",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Latissimus Dorsi",
+      "Exercise": "Inverted Pull-Up",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Latissimus Dorsi",
+      "Exercise": "Lat Pulldown",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Latissimus Dorsi",
+      "Exercise": "Pull-Up",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Latissimus Dorsi",
+      "Exercise": "Reverse-Grip Lat Pullown",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Latissimus Dorsi",
+      "Exercise": "Reverse-Grip Pull-Up",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Latissimus Dorsi",
+      "Exercise": "V-Bar Pull-Up",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Latissimus Dorsi",
+      "Exercise": "Wide-Grip Lat Pulldown",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Bent-Over Alternating Dumbbell Row",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Bent-Over Barbell Row",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Bent-Over Dumbbell Row",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Bent-Over Hammer Dumbbell Row",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Bent-Over Long Barbell Row",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Bent-Over Reverse-Grip Barbell Row",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Bent-Over Single-Arm Long Barbell Row",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Machine Row",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "One Arm Dumbbell Row",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Reverse Incline Dumbbell Row",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Rope Cable Row",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Seated Cable Row",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Seated Row",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Single-Arm Cable Row",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Single-Arm Dumbbell Row",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Single-Arm Lat Pulldown",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Standing Cable Row",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Back - Lat.Dorsi/Rhomboids",
+      "Exercise": "Standing Single-Arm Cable Row",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Alternating Dumbbell Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Alternating Hammer Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Barbell Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Bicep Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Bottom/Top/Full Curls",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Cable Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Concentration Dumbbell Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Cross Body Hammer Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Dumbbell Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "EZ-Bar Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Hammer Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Incline Alternating Dumbbell Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Incline Alternating Hammer Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Incline Dumbbell Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Incline Hammer Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Kneeling Cable Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Lying Cable Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Lying Double Biceps Cable Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Lying High Cable Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Machine Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Overhead Double Biceps Cable Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Overhead Rope Cable Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Preacher Barbell Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Preacher Cable Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Preacher Dumbbell Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Preacher EZ-Bar Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Preacher Hammer Dumbbell Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Preacher Single-Arm Dumbbell Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Reverse Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Rope Cable Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Seated Alternating Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Seated Alternating Hammer Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Seated Dumbbell Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Seated Hammer Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Single-Arm Barbell Curl",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Single-Arm Cable Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Single-Arm Dumbbell Curl w/ Incline Bench",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Biceps",
+      "Exercise": "Spider Curl",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Calves - Gastrocnemius",
+      "Exercise": "Barbell Calf Raise",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Calves - Gastrocnemius",
+      "Exercise": "Calf Press",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Calves - Gastrocnemius",
+      "Exercise": "Calf Raise - Seated",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Calves - Gastrocnemius",
+      "Exercise": "Calf Raise - Standing",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Calves - Gastrocnemius",
+      "Exercise": "Dumbbell Calf Raise",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Calves - Gastrocnemius",
+      "Exercise": "Single-Leg Calf Press",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Calves - Gastrocnemius",
+      "Exercise": "Single-Leg Dumbbell Calf Raise",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Calves - Gastrocnemius",
+      "Exercise": "Smith Machine Calf Raise",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Calves - Soleus",
+      "Exercise": "Seated Calf Raise",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Calves - Soleus",
+      "Exercise": "Seated Single-Leg Calf Raise",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Alternating Dumbbell Bench Press",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Barbell Bench Press",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Chest Press",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Decline Dumbbell Bench Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Decline Smith Machine Bench Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Dumbbell Bench Press",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Dumbbell Push-Up",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Elevated Push-Up",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Flat Bench Press",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Incline Alternating Dumbbell Bench Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Incline Barbell Bench Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Incline Bench Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Incline Dumbbell Bench Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Incline Hammer Dumbbell Bench Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Incline Single-Arm Dumbbell Bench Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Incline Smith Machine Bench Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Incline Twisting Dumbbell Bench Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Kneeling Push-Up",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Machine Bench Press",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Machine Vertical Bench Press",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Medicine Ball Crossover Push-Up",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Push-Up",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Single-Arm Dumbbell Bench Press",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Smith Machine Bench Press",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Twisting Dumbbell Bench Press",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Wide-Grip Push-Up",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Cable Crossover",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Cable Fly",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Decline Dumbbell Fly",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Dumbbell Fly",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "High Cable Crossover",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Incline Cable Fly",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Incline Dumbbell Fly",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Incline Twisting Dumbbell Fly",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Low Cable Crossover",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Pec Deck",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Chest - Pectoralis",
+      "Exercise": "Pec Deck Fly",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Legs - Hamstrings",
+      "Exercise": "Bent-Knee Single-Leg Hip Lift",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Hamstrings",
+      "Exercise": "Elevated Hip Lift",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Hamstrings",
+      "Exercise": "Elevated Single-Leg Hip Lift",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Hamstrings",
+      "Exercise": "Hip Lift",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Hamstrings",
+      "Exercise": "Single-Leg Hip Lift",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Hamstrings",
+      "Exercise": "Deadlift",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Legs - Hamstrings",
+      "Exercise": "Leg Curl",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Pull",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Legs - Hamstrings",
+      "Exercise": "Lying Alternating Leg Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Pull",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Legs - Hamstrings",
+      "Exercise": "Lying Leg Curl",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Pull",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Legs - Hamstrings",
+      "Exercise": "Lying Single-Leg Curl",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Pull",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Legs - Hamstrings",
+      "Exercise": "Seated Leg Curl",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Pull",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Barbell Diagonal Lunge",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Barbell Hack Squat",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Barbell Lunge",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Barbell Reverse Lunge",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Barbell Side Lunge",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Barbell Split Squat",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Barbell Squat",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Barbell Step-Up",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Barbell Walking Lunge",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Diagonal Lunge",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Dumbbell Diagonal Lunge",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Dumbbell Lunge",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Dumbbell Reverse Lunge",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Dumbbell Side Lunge",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Dumbbell Split Squat",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Dumbbell Squat",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Dumbbell Step-Up",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Dumbbell Walking Lunge",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Forward Lunge",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Lateral Barbell Squat",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Lateral Barbell Step-Up",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Lateral Squat",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Lateral Step-Up",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Leg Press",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Lunge",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Lying Machine Squat",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Machine Hack Squat",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Reverse Lunge",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Single-Arm Barbell Side Squat",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Single-Arm Dumbbell Side Squat",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Single-Leg Barbell Squat",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Single-Leg Box Squat",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Single-Leg Dumbbell Box Squat",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Single-Leg Dumbbell Squat",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Single-Leg Squat",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Smith Machine Squat",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Split Squat",
+      "Level": "Advanced",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Step-Up",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Walking Lunge",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Alternating Leg Extension",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Leg Extension",
+      "Level": "Beginner",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Legs - Quadriceps",
+      "Exercise": "Single-Leg Extension",
+      "Level": "Intermediate",
+      "U/L/C": "Lower",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Lower Back - Erector Spinae",
+      "Exercise": "Alternating Superman",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Lower Back - Erector Spinae",
+      "Exercise": "Back Raise",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Lower Back - Erector Spinae",
+      "Exercise": "Quadruped Alternating Superman",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Lower Back - Erector Spinae",
+      "Exercise": "Superman",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Lower Back - Erector Spinae",
+      "Exercise": "Superman Hold",
+      "Level": "Beginner",
+      "U/L/C": "Core",
+      "P / P": "Pull",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Arnold Dumbbell Press",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Barbell Shoulder Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Dumbbell Alternating Shoulder Press",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Dumbbell Front Raise",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Dumbbell Shoulder Press",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Dumbbell Twisting Shoulder Press",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Machine Shoulder Press",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Seated Dumbbell Rear Delt Elbow Raise",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Single-Arm Dumbbell Shoulder Press",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Smith Machine Shoulder Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Barbell Front Raise",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Bent-Over Cable Rear Delt Raise",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Bent-Over Dumbbell Rear Delt Raise",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Cable Front Raise",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Cable Lateral Raise",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Dumbbell Lateral Raise",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Front Plate Raise",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Kneeling Single-Arm Cable Rear Delt Raise",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Lying Dumbbell External Rotation",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Lying Dumbbell Rear Delt Raise",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Lying Single-Arm Dumbbell Rear Delt Raise",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Pec Deck Real Delt Extensions",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Reverse Incline Dumbbell Rear Delt Raise",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Seated Dumbbell Rear Delt Raise",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Delts/Traps",
+      "Exercise": "Single-Arm Cable Lateral Raise",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Shoulders - Rotator Cuff",
+      "Exercise": "Cable External Rotation",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Close-Grip Bench Press",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Forward Lean Dips",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Assisted Dips",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Bench Dips",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Diamond Push-Up",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Dips",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Machine Dips",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "M",
+      "Joint": "M"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Decline Dumbbell Triceps Extension",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Decline EZ-Bar Tricep Extension",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Decline Single Dumbbell Triceps Extension",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Decline Single-Arm Dumbbell Triceps Extension",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Dumbbell Kickback",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Incline EZ-Bar Tricep Extension",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Kneeling Cable Triceps Extension",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Leaning Overhead Tricep Extension",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Low Cable Triceps Extension",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Lying Cable Triceps Extension",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Lying EZ-Bar Triceps Extension",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Lying Overhead EZ-Bar Tricep Extension",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Lying Reverse EZ-Bar Triceps Extension",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Lying Single Dumbbell Triceps Extension",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Lying Single-Arm Dumbbell Triceps Extension",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Lying Tricep Extensions",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Overhead Dumbbell Triceps Extension",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Overhead EZ-Bar Triceps Extension",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Overhead Rope Cable Tricep Extension",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Overhead Single Dumbbell Tricep Extension",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Overhead Single-Arm Cable Tricep Extension",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Overhead Single-Arm Dumbbell Tricep Extension",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Reverse Tricep Pushdown",
+      "Level": "Advanced",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Rope Triceps Pushdown",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Single-Arm Towel Triceps Pushdown",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Single-Arm Triceps Pushdown",
+      "Level": "Intermediate",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Towel Triceps Pushdown",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Tricep Extensions",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "FW",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Tricep Pushdown",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "Tricep Pushdown",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    },
+    {
+      "MuscleGroup": "Triceps",
+      "Exercise": "V-Bar Tricep Pushdown",
+      "Level": "Beginner",
+      "U/L/C": "Upper",
+      "P / P": "Push",
+      "Modality": "C",
+      "Joint": "S"
+    }
+  ]
+}
