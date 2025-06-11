@@ -9,7 +9,7 @@ function Profile() {
       <p>Workouts: Squats</p>
       <h4>Want to create a new workout?</h4>
       <form method="post">
-            <div>
+            <div> {/* I did NOT need all these damn div tags, why did I do those?! 😭 */}
                 <label>Name of workout: </label>
                 <input type="text" name="name" required />
             </div>
