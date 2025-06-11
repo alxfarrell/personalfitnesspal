@@ -20,3 +20,21 @@ const connection = mongoose.connection;
 connection.once('open', () => {
   console.log('MongoDB database connection established successfully');
 });
+
+// Import routes
+const userRoutes = require('./routes/users');
+const workoutRoutes = require('./routes/workouts');
+
+// Use routes
+app.use('/users', userRoutes);
+app.use('/workouts', workoutRoutes);
+
+app.get('/', (req, res) => {
+  res.send('Personal Fitness Pal backend is running');
+});
+
+// Start server
+const PORT = process.env.PORT || 5000;
+app.listen(PORT, () => {
+  console.log(`Server running on http://localhost:${PORT}`);
+});
